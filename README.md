@@ -9,7 +9,7 @@ Meu nome é Ricardo Mazzo, tenho 17 anos e sou de Itapuí. Em 2024, concluí o E
 ### Tecnologias 🤖
 
 <img
- src="https://skillicons.dev/icons?i=html,css,js,net,cs,python,mysql" 
+ src="https://skillicons.dev/icons?i=html,css,js,net,cs,python,mysql,git" 
 />
 
 ---
